@@ -3,6 +3,7 @@ import React from 'react';
 // import './Heading.css';
 import Collection from './Collection';
 import NewCollection from './NewCollection';
+import AllCollection from './AllCollection';
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       <div>
       <Collection/>
       <NewCollection/>
+      <AllCollection/>
       </div>
   );
 };
