@@ -1,6 +1,6 @@
 // Home.js
 import React from 'react';
-import './Heading.css';
+// import './Heading.css';
 import Collection from './Collection';
 
 const Home = () => {
