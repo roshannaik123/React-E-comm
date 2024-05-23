@@ -88,4 +88,18 @@
   button:hover {
    
   }
-  
+  .home_new_collection {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product {
+    flex: 0 0 calc(25% - 20px); 
+    margin: 10px;
+   
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+}
