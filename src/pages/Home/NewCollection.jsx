@@ -19,10 +19,12 @@ const NewCollection = () => {
             <Heading>New<br />These Week</Heading>
             <div className='home_new_collection'>
                 {products.map(product => (
-                    <div className="product" key={product.id}>
+                   
+     <div className="product" key={product.id}>
                         <img src={product.image} alt={product.name} />
                         <p>{product.name}</p>
                         <p>{product.price}</p>
+                       
                     </div>
                 ))}
             </div>
