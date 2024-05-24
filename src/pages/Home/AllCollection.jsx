@@ -43,6 +43,7 @@ function AllCollection() {
                         <img src={item.img} alt={item.name} />
                         <p>{item.name}</p>
                         <p>{item.price}</p>
+                       
                     </div>
                 ))}
             </div>
