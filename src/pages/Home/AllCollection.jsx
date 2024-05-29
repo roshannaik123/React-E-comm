@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import "./AllCollection.css"
+import "./styles/AllCollection.css"
 import Heading from './Heading';
 import img1 from"./images/download.jpeg";
 import img2 from"./images/download.jpeg";

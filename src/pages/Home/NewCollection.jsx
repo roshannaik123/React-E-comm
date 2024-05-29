@@ -1,6 +1,6 @@
 import React from 'react';
 import Heading from './Heading';
-import './Heading.css'; 
+import './styles/Heading.css'; 
 import img1 from "./images/Group 65.png";
 import img2 from "./images/Group 66.png";
 import img3 from "./images/Rectangle 13.png";

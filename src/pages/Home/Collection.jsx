@@ -2,7 +2,7 @@ import React from "react";
 import Heading from "./Heading";
 import { Link } from "react-router-dom";
 
-import "./Heading.css";
+import "./styles/Heading.css";
 import image1 from "./images/Frame 278.png";
 
 const Collection = () => {

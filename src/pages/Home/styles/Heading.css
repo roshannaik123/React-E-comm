@@ -80,14 +80,6 @@
     font-size: 16px;
     margin-top: 45px;
   }
-  button {
-   
-   
-  }
-  
-  button:hover {
-   
-  }
   .home_new_collection {
     display: flex;
     flex-wrap: wrap;

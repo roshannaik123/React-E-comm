@@ -1,6 +1,6 @@
 // Heading.js
 import React from 'react';
-import "./Heading.css";
+import "./styles/Heading.css";
 
 const Heading = ({ children }) => {
   return(<div>
