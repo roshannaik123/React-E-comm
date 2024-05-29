@@ -6,17 +6,19 @@
     padding: 0;
     margin: 0;
    font-size:33px;
+   
   }
   .homeLinks{
     margin:20px;
 }
 .head{
   font-size: 73px;
-  font-family: Arial, sans-serif;
+  font-family: 'Abril Fatface', cursive;
   
 }
 .headingContainer p{
   font-size:30px;
+ 
 
 }
 .images img{
